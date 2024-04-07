@@ -1,0 +1,45 @@
+* {
+  border: none;
+  border-radius: 15px;
+  font-family: SF Pro Display;
+  font-weight: bold;
+  min-height: 0;
+}
+
+window#waybar {
+  background: rgba(0, 0, 0, 0.4);
+  border: 4px solid white;
+  color: #fbf1c7;
+  border: none;
+}
+
+#clock {
+  background: transparent;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin-top: 3px;
+  font-size: 15px;
+  border: none;
+  color: #fbf1c7;
+}
+
+#battery {
+  background: transparent;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin-top: 3px;
+  margin-right: 15px;
+  font-size: 15px;
+  border: none;
+  color: #fbf1c7;
+}
+
+#workspaces {
+  background: transparent;
+  padding-top: 5px;
+  padding-bottom: 10px;
+  margin-top: 3px;
+  font-size: 15px;
+  border: none;
+  color: red;
+}

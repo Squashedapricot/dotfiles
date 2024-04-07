@@ -1,0 +1,8 @@
+## To mount USB
+
+1.Use the mount command
+  Example:
+   :mount
+
+2.Mount the required usb
+3.Press Enter to open after mounting the mount point
